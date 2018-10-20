@@ -1,50 +1,45 @@
 # Site setings
-name: "Horace"
-description: "Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself."
-meta_description: "Jekyll template, minimal style, perfect for bloggers."
+name: 'Meeka'
+description: 'This is the blog description.'
+meta_description: 'Meta description goes here.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl:
-production_url: https://horace.netlify.com/ 
+? baseurl
+production_url: https://horace.netlify.com/
 disqus: 'justgoodthemes'
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 
 # Author
 author:
-    name: "Daniel Bennett"
-    image: "authorimage.jpg"
-    greetings: "Hi there!"
-    description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
-    bio: "Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious."
+  name: 'Caro'
+  image: 'authorimage.jpg'
+  greetings: 'Hi there!'
+  description: 'This is a description about the blog. This is a description about the blog. This is a description about the blog.'
+  bio: 'This is the bio. It goes on the about page. This is the bio. It goes on the about page. This is the bio. It goes on the about page.'
 
 # Social links
-twitter: "username"
-facebook: "username"
-googleplus: "+username"
-github: "tomasbankauskas"
-codepen: "username"
-dribbble: "username"
-medium: "@username"
-instagram: "username"
-pinterest: "username"
-linkedin: "username"
+twitter: 'caro_guindon'
+dribbble: 'CaroG'
+instagram: 'caro_guindon'
+pinterest: 'username'
+linkedin: 'username'
 
 navigation:
-- text: About
-  url: /about/
-- text: Style Guide
-  url: /style-guide/
+  - text: About
+    url: /about/
+  - text: Style Guide
+    url: /style-guide/
 
-# Required Plugins
+  # Required Plugins
 plugins_dir:
   - jekyll-paginate
   - jekyll-tagsgenerator
 
-# Pagination 
+# Pagination
 paginate: 5
 paginate_path: /page:num/
-    
+
 # Permalinks
 permalink: /:title
 
@@ -53,5 +48,5 @@ markdown: kramdown
 
 # Sass
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
