@@ -23,7 +23,7 @@ instagram: 'withhusky'
 
 navigation:
   - text: About
-    url: /about/
+    url: /about
 
   # Required Plugins
 plugins_dir:
