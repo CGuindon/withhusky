@@ -4,7 +4,7 @@ description: 'This is the blog description.'
 meta_description: 'Meta description goes here.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: https://cguindon.github.io/travel-blog
+? baseurl
 production_url: https://cguindon.github.io/travel-blog
 disqus: 'withhusky'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
