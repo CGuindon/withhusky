@@ -7,6 +7,7 @@ favicon: 'assets/images/favicon.ico'
 ? baseurl
 production_url: https://cguindon.github.io/travel-blog
 disqus: 'withhusky'
+mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 
 # Author
@@ -18,9 +19,8 @@ author:
   bio: 'This is the bio. It goes on the about page. This is the bio. It goes on the about page. This is the bio. It goes on the about page.'
 
 # Social links
-twitter: 'caro_guindon'
-instagram: 'caro_guindon'
-dribbble: 'CaroG'
+twitter: 'withhusky'
+instagram: 'withhusky'
 
 navigation:
   - text: About
