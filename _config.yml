@@ -19,12 +19,8 @@ author:
 
 # Social links
 twitter: 'withhusky'
-instagram: 'withhusky'
-
-navigation:
-  - text: About
-    url: /about
-
+instagram:
+  'withhusky'
   # Required Plugins
 plugins_dir:
   - jekyll-paginate
