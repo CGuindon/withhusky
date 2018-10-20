@@ -4,11 +4,9 @@ description: 'This is the blog description.'
 meta_description: 'Meta description goes here.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-? baseurl
-production_url: https://horace.netlify.com/
+baseurl: https://cguindon.github.io
+production_url: https://cguindon.github.io
 disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-cover_image: bc_1.jpg
 
 # Author
 author:
@@ -22,14 +20,11 @@ author:
 twitter: 'caro_guindon'
 dribbble: 'CaroG'
 instagram: 'caro_guindon'
-pinterest: 'username'
-linkedin: 'username'
+linkedin: 'caroline-guindon-28267661'
 
 navigation:
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
 
   # Required Plugins
 plugins_dir:
