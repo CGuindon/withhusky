@@ -1,0 +1,32 @@
+<p class="social-links">
+    {% if site.facebook %}
+    <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank">
+        <span class="fa-facebook-f fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Facebook</span>
+    </a>
+    {% endif %}
+    {% if site.twitter %}
+    <a href="https://twitter.com/{{ site.twitter }}" target="_blank">
+        <span class="fa-twitter fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Twitter</span>
+    </a>
+    {% endif %}
+    {% if site.instagram %}
+    <a href="https://www.instagram.com/{{ site.instagram }}" target="_blank">
+        <span class="fa-instagram fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Instagram</span>
+    </a>
+    {% endif %}
+    {% if site.github %}
+    <a href="https://github.com/{{ site.github }}" target="_blank">
+        <span class="fa-github fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    {% endif %}
+    {% if site.codepen %}
+    <a href="https://codepen.io/{{ site.codepen }}" target="_blank">
+        <span class="fa-codepen fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">CodePen</span>
+    </a>
+    {% endif %}
+</p>
