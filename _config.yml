@@ -1,0 +1,7 @@
+# Site settings
+title: Travel Blog
+description: Travel blog by Caroline Guindon
+keywords: Travel, France, Europe, Dog
+author: CGuindon
+baseurl: '/travel-blog/' # the subpath of your site, e.g. /blog/
+url: 'http://cguindon.github.io' # the base hostname & protocol for your site
