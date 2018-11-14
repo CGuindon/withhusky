@@ -3,7 +3,7 @@
 ---
 
 /**
- * Horace 1.0.2
+ * Horace 1.0.0
  * By Just Good Themes
  */
 /**
@@ -68,15 +68,15 @@
  * ----------------------------------------------------------------------------
  */
 .site-header {
-  background: $gray-lightest;
-  border-bottom: 1px solid $gray-lighter;
+  background: #f9f9fb;
+  border-bottom: 1px solid #e5e7e9;
   margin: 0 0 3.33333em;
   padding-bottom: 1.11111em;
   padding-top: 1.11111em;
 }
 
 .site-header a {
-  color: $gray-darkest;
+  color: #2f313d;
 }
 
 .site-header a:hover {
@@ -108,7 +108,7 @@
 }
 
 .site-title {
-  color: $gray-darkest;
+  color: #2f313d;
   font-size: 1.33333rem;
   font-weight: bold;
   line-height: 1.2;
@@ -166,7 +166,7 @@
 }
 
 .post-title {
-  color: $gray-darkest;
+  color: #2f313d;
   font-size: 2.22222rem;
   margin: 0 0 0.75em;
 }
@@ -176,7 +176,7 @@
 }
 
 .post-meta {
-  color: $gray;
+  color: #a1a1a7;
   font-size: 0.77778rem;
   letter-spacing: 2px;
   line-height: 1.5;
@@ -217,7 +217,7 @@
 }
 
 .post-share-title {
-  color: $gray-darkest;
+  color: #2f313d;
   display: inline-block;
   font-weight: bold;
 }
@@ -228,7 +228,7 @@
 }
 
 .author-box {
-  border: 1px solid $gray-lighter;
+  border: 1px solid #e5e7e9;
   border-radius: 3px;
   margin: 1.66667em 0 3.33333em;
   padding: 1.66667em 30px;
@@ -259,7 +259,7 @@
 }
 
 .caption-text {
-  color: $gray;
+  color: #a1a1a7;
   font-size: 16px;
   font-style: italic;
   line-height: 1.5;
@@ -270,7 +270,7 @@
 
 /* Featured Posts */
 .featured-posts {
-  border-bottom: 1px solid $gray-lighter;
+  border-bottom: 1px solid #e5e7e9;
   margin-bottom: 5em;
   padding-bottom: 1.66667em;
 }
@@ -281,7 +281,7 @@
 
 /* Post Feed */
 .post-feed-title {
-  color: $gray-dark;
+  color: #535358;
   font-size: 14px;
   font-weight: normal;
   letter-spacing: 2px;
@@ -328,7 +328,7 @@
 }
 
 .page-description {
-  color: $gray;
+  color: #a1a1a7;
   font-size: 0.77778rem;
   line-height: 1.5;
   margin: 0.25em 0 0;
@@ -336,7 +336,7 @@
 
 /* Read Next */
 .read-next-title {
-  color: $gray-dark;
+  color: #535358;
   font-size: 14px;
   font-weight: normal;
   letter-spacing: 2px;
@@ -390,8 +390,8 @@
 
 /* Newsletter section */
 .newsletter-box {
-  background: $gray-lightest;
-  border: 1px solid $gray-lighter;
+  background: #f9f9fb;
+  border: 1px solid #e5e7e9;
   border-radius: 3px;
   box-sizing: border-box;
   margin-bottom: 3.33333em;
@@ -407,8 +407,8 @@
 
 /* Hero */
 .hero-wrap {
-  background: $gray-lightest;
-  border-bottom: 1px solid $gray-lighter;
+  background: #f9f9fb;
+  border-bottom: 1px solid #e5e7e9;
   margin: 0 0 3.33333em;
   position: relative;
 }
@@ -481,7 +481,7 @@
 }
 
 .comments-title {
-  color: $gray-dark;
+  color: #535358;
   font-size: 14px;
   font-weight: normal;
   letter-spacing: 2px;
@@ -525,8 +525,8 @@
 }
 
 .comments-show:hover {
-  border-color: $gray-darkest;
-  color: $gray-darkest;
+  border-color: #2f313d;
+  color: #2f313d;
 }
 
 .comments-area.comments--loaded .comments-inside {
@@ -552,7 +552,7 @@
  * ----------------------------------------------------------------------------
  */
 .pagination {
-  border-top: 1px solid $gray-lighter;
+  border-top: 1px solid #e5e7e9;
   margin-bottom: 3.33333em;
   margin-top: 1.66667em;
   padding-top: 3.33333em;
@@ -565,7 +565,7 @@
 }
 
 .page-number {
-  color: $gray;
+  color: #a1a1a7;
   display: inline-block;
   font-size: 12px;
   line-height: 1.5;
@@ -594,7 +594,7 @@
  * ----------------------------------------------------------------------------
  */
 .sidebar {
-  background: $gray-darkest;
+  background: #2f313d;
   bottom: 0;
   color: #fff;
   -webkit-overflow-scrolling: touch;
@@ -720,7 +720,7 @@
 }
 
 .widget a:hover {
-  color: $gray-light;
+  color: #d8d8d8;
 }
 
 .widget.site-navigation .menu {
@@ -781,7 +781,7 @@
 }
 
 .widget-tagcloud a {
-  border: 1px solid $gray-dark;
+  border: 1px solid #535358;
   border-radius: 20px;
   color: #fff;
   display: inline-block;

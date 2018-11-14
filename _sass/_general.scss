@@ -9,7 +9,7 @@ html {
 
 body {
     background: #fff;
-    color: $gray-dark;
+    color: #535358;
     line-height: 1.66667;
 }
 
@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-    color: $gray-darkest;
+    color: #2f313d;
 }
 
 h1,
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: $gray-darkest;
+    color: #2f313d;
     font-weight: bold;
     line-height: 1.2;
     text-rendering: optimizeLegibility;
@@ -86,8 +86,8 @@ address {
 
 mark,
 ins {
-    background: $yellow;
-    color: $gray-dark;
+    background: #fffac4;
+    color: #535358;
     padding: 0 3px;
     text-decoration: none;
 }
@@ -98,9 +98,9 @@ code {
 }
 
 pre {
-    background: $gray-darkest;
+    background: #2f313d;
     border-radius: 3px;
-    color: $gray-light;
+    color: #d8d8d8;
     font-size: 0.88889rem;
     margin: 0 0 1.875em;
     overflow: auto;
@@ -113,7 +113,7 @@ pre code {
 }
 
 blockquote {
-    color: $gray-darkest;
+    color: #2f313d;
     font-size: 1.88889rem;
     line-height: 1.25;
     margin: 0 0 0.88235em;
@@ -184,7 +184,7 @@ li>ol {
 }
 
 hr {
-    background-color: $gray-lighter;
+    background-color: #e5e7e9;
     border: 0;
     height: 1px;
     margin: 1.66667em 0;
@@ -199,7 +199,7 @@ table {
 }
 
 caption {
-    color: $gray-darkest;
+    color: #2f313d;
     font-size: 0.875em;
     font-style: normal;
     margin-bottom: 1em;
@@ -208,18 +208,18 @@ caption {
 
 th,
 td {
-    border-bottom: 1px solid $gray-lighter;
+    border-bottom: 1px solid #e5e7e9;
     padding: 0.625em 5px;
 }
 
 th {
-    color: $gray-darkest;
+    color: #2f313d;
     font-weight: bold;
 }
 
 /* Form fields */
 label {
-    color: $gray-darkest;
+    color: #2f313d;
     font-size: 0.88889rem;
     font-weight: bold;
 }
@@ -228,11 +228,11 @@ input,
 select,
 textarea {
     background: #fff;
-    border: 1px solid $gray-lighter;
+    border: 1px solid #e5e7e9;
     border-radius: 3px;
     box-shadow: none;
     box-sizing: border-box;
-    color: $gray-dark;
+    color: #535358;
     font-size: 16px;
     line-height: 1.5;
     max-width: 100%;
@@ -324,20 +324,20 @@ a.button:focus {
 
 /* Placeholder text color */
 ::-webkit-input-placeholder {
-    color: $gray;
+    color: #a1a1a7;
 }
 
 :-moz-placeholder {
-    color: $gray;
+    color: #a1a1a7;
 }
 
 ::-moz-placeholder {
-    color: $gray;
+    color: #a1a1a7;
     opacity: 1;
 }
 
 :-ms-input-placeholder {
-    color: $gray;
+    color: #a1a1a7;
 }
 
 /* Videos, audios and embeds */
@@ -544,9 +544,9 @@ img {
 .top-button,
 .newer-posts,
 .older-posts {
-    background: $gray-lightest;
+    background: #f9f9fb;
     border-radius: 100%;
-    color: $gray-dark;
+    color: #535358;
     display: inline-block;
     font-size: 14px;
     height: 40px;
@@ -653,7 +653,7 @@ img {
  */
 code[class*="language-"],
 pre[class*="language-"] {
-    color: $gray-light;
+    color: #d8d8d8;
     background: none;
     text-shadow: 0 1px rgba(0, 0, 0, 0.3);
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
@@ -682,7 +682,7 @@ pre[class*="language-"] {
 
 :not(pre)>code[class*="language-"],
 pre[class*="language-"] {
-    background: $gray-darkest;
+    background: #2f313d;
 }
 
 /* Inline code */
@@ -700,7 +700,7 @@ pre[class*="language-"] {
 }
 
 .token.punctuation {
-    color: $gray-light;
+    color: #d8d8d8;
 }
 
 .namespace {
@@ -735,7 +735,7 @@ pre[class*="language-"] {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-    color: $gray-light;
+    color: #d8d8d8;
 }
 
 .token.atrule,

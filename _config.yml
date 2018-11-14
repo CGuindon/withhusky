@@ -4,12 +4,10 @@ description: 'Travel with le petit loup.'
 meta_description: 'Meta description goes here.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+? baseurl
 production_url: https://withhusky.com
 disqus: 'withhusky'
 cover_image: bc_1.jpg
-# Add your GA Tracking Id
-ga_analytics: 
 
 # Author
 author:
@@ -21,16 +19,9 @@ author:
 
 # Social links
 twitter: 'withhusky'
-instagram:  'withhusky'
-
-# Navigation
-navigation:
-  - text: About
-    url: /about/
-  - text: Style Guide
-    url: /style-guide/
-
-# Required Plugins
+instagram:
+  'withhusky'
+  # Required Plugins
 plugins_dir:
   - jekyll-paginate
   - jekyll-tagsgenerator
