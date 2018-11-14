@@ -20,12 +20,15 @@
             </div>
             {% if post.featured_image_thumbnail %}
             <a class="post-thumbnail" href="{{ post.url }}">
-                <img src="{% if post.featured_image_thumbnail contains ' :// ' %}{{ post.featured_image_thumbnail }}{% else %}{{ post.featured_image_thumbnail | absolute_url }}{% endif %}" alt="{{ post.title }}">
+                <img src="{% if post.featured_image_thumbnail contains ' :// ' %}{{ post.featured_image_thumbnail }}{% else %}{{ post.featured_image_thumbnail | absolute_url }}{% endif %}"
+                    alt="{{ post.title }}">
+            </a>
+            {% elsif post.featured_image %}
+            <a class="post-thumbnail" href="{{ post.url }}">
+                <img src="{% if post.featured_image contains ' :// ' %}{{ post.featured_image }}{% else %}{{ post.featured_image | absolute_url }}{% endif %}"
+                    alt="{{ post.title }}">
             </a>
             {% else %}
-            <a class="post-thumbnail" href="{{ post.url }}">
-                <img src="{% if post.featured_image contains ' :// ' %}{{ post.featured_image }}{% else %}{{ post.featured_image | absolute_url }}{% endif %}" alt="{{ post.title }}">
-            </a>
             {% endif %}
         </li>
         {% endfor %}
@@ -33,7 +36,8 @@
 </section>
 
 <!-- Create a sorted array of tags -->
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{%
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor
+%}{%
 endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
 <section class="widget widget-tagcloud">
     <h2 class="widget-title">Tags</h2>
