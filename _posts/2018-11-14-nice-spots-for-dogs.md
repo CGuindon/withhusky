@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Nice Spots for Dogs in Nice'
-tags: [Dog, Tips, Nice, Parks, Walks]
+tags: [Nice, Walks, Parks, Beaches]
 featured_image_thumbnail: assets/images/posts/2018/IMG_7090-thumb.jpg
 featured_image: assets/images/posts/2018/IMG_7090.jpg
 featured: true
