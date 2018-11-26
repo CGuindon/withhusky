@@ -21,7 +21,7 @@ Read ALL the rules for both countries around bringing pets. Here are a few I ref
 
 [Non-commercial Export of Dogs, Cats and Ferrets to the European Union](http://www.inspection.gc.ca/animals/terrestrial-animals/exports/live-animals/health-certificates/pets/eu-non-commercial-/eng/1321396665054/1321464473817) - Canadian Food Inspection Agency
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/IMG_4692.jpg#wide" title="Nice Beach View" caption="View of the Nice beaches and Promenade des Anglais from the stairway to Parc de la Colline du Chateau" %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/IMG_4692.jpg#wide" title="Meeka's Face" caption="Meeka and how we both feel about paperwork" %}
 
 ### What Your Dog Needs
 
@@ -41,7 +41,7 @@ Read ALL the rules for both countries around bringing pets. Here are a few I ref
 
 3. **Scan and Save All Documents Digitally**
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/bc_1.jpg#wide" title="Nice Beach View" caption="View of the Nice beaches and Promenade des Anglais from the stairway to Parc de la Colline du Chateau" %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/bc_1.jpg#wide" title="Meeka and friends in snow" caption="Keep going, that was the easy part." %}
 
 ### What You Need to Get
 
@@ -75,7 +75,7 @@ I made sure to scan and save all documentation digitally and would have access t
 
 After all that you're good to go!
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/IMG_7126.jpg#wide" title="Nice Beach View" caption="View of the Nice beaches and Promenade des Anglais from the stairway to Parc de la Colline du Chateau" %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/IMG_7126.jpg#wide" title="Meeka rolling around" caption="Just picture the moment when you're actually there." %}
 
 
 
