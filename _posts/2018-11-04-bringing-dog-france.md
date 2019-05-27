@@ -41,7 +41,7 @@ Read ALL the rules for both countries around bringing pets. Here are a few I ref
 
 3. **Scan and Save All Documents Digitally**
 
-{% include image-caption.html imageurl="/assets/images/posts/2018/bc_1.jpg#wide" title="Meeka and friends in snow" caption="Keep going, that was the easy part." %}
+{% include image-caption.html imageurl="/assets/images/posts/2018/IMG_4199.jpg#wide" title="Meeka and friends in snow" caption="Keep going, that was the easy part." %}
 
 ### What You Need to Get
 
